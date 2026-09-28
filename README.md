@@ -52,8 +52,14 @@ The list below is generated and updated automatically by LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
