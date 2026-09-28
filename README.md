@@ -59,3 +59,15 @@ Mistakes I made, new concepts, or patterns worth remembering.
 The table below is generated and updated automatically by LeetHub.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
