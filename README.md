@@ -5,7 +5,9 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![LeetHub](https://img.shields.io/badge/Synced%20with-LeetHub-2ea44f?style=for-the-badge&logo=github&logoColor=white)
 
-My personal collection of LeetCode solutions, written while I study data structures and algorithms. Each problem includes the solution code and short notes on the reasoning behind it.
+My personal collection of LeetCode solutions, written while I study data structures and algorithms.
+
+This repository is **fully automated**: every accepted submission on LeetCode is pushed here by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) — no manual edits.
 
 ## 🎯 Goals
 
@@ -25,38 +27,22 @@ Some problems are solved in both languages, so the two versions can be compared 
 
 ## 📁 Repository Structure
 
-Solutions are pushed automatically by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) after each accepted submission. Each problem gets its own folder:
+Each problem gets its own folder, created automatically by LeetHub:
 
 ```
 leetcode/
 ├── README.md
+├── stats.json             ← progress data used by LeetHub
 ├── 0001-two-sum/
 │   ├── README.md          ← problem statement
 │   ├── 0001-two-sum.java  ← Java solution
-│   ├── 0001-two-sum.py    ← Python solution (when available)
-│   └── NOTES.md           ← my notes (approach, complexity, lessons)
+│   └── 0001-two-sum.py    ← Python solution (when available)
 └── ...
 ```
 
-## 📝 Notes Template
+## 📊 Solved Problems by Topic
 
-For each problem, I write a short `NOTES.md` file:
-
-```markdown
-## Approach
-Brief explanation of the idea in 2–3 lines.
-
-## Complexity
-- Time: O(?)
-- Space: O(?)
-
-## What I learned
-Mistakes I made, new concepts, or patterns worth remembering.
-```
-
-## 📊 Progress
-
-The table below is generated and updated automatically by LeetHub.
+The list below is generated and updated automatically by LeetHub.
 
 ---
 
