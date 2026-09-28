@@ -54,23 +54,6 @@ Brief explanation of the idea in 2–3 lines.
 Mistakes I made, new concepts, or patterns worth remembering.
 ```
 
-## 🗺️ Study Roadmap
-
-Topics I'm working through, roughly in order:
-
-- [ ] Arrays & Hashing
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
-- [ ] Binary Search
-- [ ] Linked List
-- [ ] Trees
-- [ ] Tries
-- [ ] Heap / Priority Queue
-- [ ] Backtracking
-- [ ] Graphs
-- [ ] Dynamic Programming
-
 ## 📊 Progress
 
 The table below is generated and updated automatically by LeetHub.
