@@ -59,6 +59,7 @@ The list below is generated and updated automatically by LeetHub.
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +69,9 @@ The list below is generated and updated automatically by LeetHub.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
