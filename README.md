@@ -54,6 +54,7 @@ The list below is generated and updated automatically by LeetHub.
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ The list below is generated and updated automatically by LeetHub.
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jg-abreu/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -69,6 +71,7 @@ The list below is generated and updated automatically by LeetHub.
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -79,10 +82,27 @@ The list below is generated and updated automatically by LeetHub.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jg-abreu/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jg-abreu/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
