@@ -53,6 +53,7 @@ The list below is generated and updated automatically by LeetHub.
 | ------- |
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -60,6 +61,7 @@ The list below is generated and updated automatically by LeetHub.
 | ------- |
 | [0001-two-sum](https://github.com/jg-abreu/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +71,7 @@ The list below is generated and updated automatically by LeetHub.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jg-abreu/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jg-abreu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jg-abreu/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +85,7 @@ The list below is generated and updated automatically by LeetHub.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jg-abreu/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jg-abreu/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -92,6 +96,7 @@ The list below is generated and updated automatically by LeetHub.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -105,4 +110,8 @@ The list below is generated and updated automatically by LeetHub.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jg-abreu/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jg-abreu/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
